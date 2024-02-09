@@ -1,2 +1,3 @@
 *picache*
 mysite/polls/__pycache__/*
+mysite/__pycache__/*.pyc
